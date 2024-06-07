@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- Define the corner radius -->
+    <corners
+        android:radius="10dp" />
+
+    <!-- Define the border color and width -->
+    <stroke
+        android:width="3dp"
+        android:color="@color/white" />
+
+    <!-- Define the size of the shape -->
+    <size
+        android:height="40dp"
+        android:width="40dp" />
+
+    <!-- Define the background color -->
+    <solid
+        android:color="@color/hot_pink" />
+</shape>
